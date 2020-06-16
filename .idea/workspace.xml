@@ -13,29 +13,18 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ade8f93c-3020-48ad-ac87-09216b678ad9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch10/microweb/src/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程式設計入門/F9796/ch10/microweb/src/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/bot_ok.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/bot_ok.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/bot_secr_bad.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/bot_secr_bad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/bot_temp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/globals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/model/oauth.json" beforeDir="false" afterPath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/model/oauth.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/model/sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/model/sheet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src/runtime.txt" beforeDir="false" />
+    <list default="true" id="ade8f93c-3020-48ad-ac87-09216b678ad9" name="Default Changelist" comment="delete unknow software">
+      <change afterPath="$PROJECT_DIR$/練習/金字塔.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/練習/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/excerise" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -123,9 +112,6 @@
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/練習" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -202,7 +188,17 @@
       <workItem from="1592194299733" duration="71000" />
       <workItem from="1592194423691" duration="4970000" />
       <workItem from="1592210882986" duration="107000" />
+      <workItem from="1592281065816" duration="270000" />
+      <workItem from="1592281365076" duration="1102000" />
     </task>
+    <task id="LOCAL-00001" summary="delete unknow software">
+      <created>1592281249377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592281249377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +215,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete unknow software" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete unknow software" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1256" y="109" key="#1" timestamp="1590559701988">
@@ -309,16 +309,22 @@
     </state>
     <state width="918" height="350" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1591069822014" />
     <state width="918" height="350" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1591234581154" />
-    <state x="671" y="150" key="SettingsEditor" timestamp="1592194337547">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="348" y="147" key="SettingsEditor" timestamp="1592281574789">
+      <screen x="0" y="23" width="1680" height="979" />
     </state>
     <state x="-1451" y="-90" key="SettingsEditor/-1920.-257.1920.1057/0.23.1680.979@-1920.-257.1920.1057" timestamp="1589172289925" />
+    <state x="348" y="147" key="SettingsEditor/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592281574789" />
     <state x="-1249" y="154" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590726009646" />
     <state x="671" y="150" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1592194337547" />
-    <state x="948" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204609317">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="830" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592281389780">
+      <screen x="0" y="23" width="1680" height="979" />
     </state>
+    <state x="830" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592281389780" />
     <state x="948" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1592204609317" />
+    <state x="924" y="101" width="598" height="822" key="find.popup" timestamp="1592282211157">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="924" y="101" width="598" height="822" key="find.popup/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592282211157" />
     <state x="1070" y="232" key="search.everywhere.popup" timestamp="1590735799182">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
