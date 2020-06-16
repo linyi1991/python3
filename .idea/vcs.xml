@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python程式設計入門/F9796/ch10/microweb/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python程式設計入門/F9796/ch13/line/src" vcs="Git" />
   </component>
