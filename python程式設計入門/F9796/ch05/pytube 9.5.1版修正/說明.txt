@@ -1,0 +1,31 @@
+遇到pytube下載YouTube影片時，請先嘗試執行底下的pip命令，將pytube更新到最新版。
+
+pip install pytube --upgrade
+
+執行命令後，若顯示"Requirement already up-to-date"代表目前已安裝最新版。
+
+
+此資料夾的Python程式檔用於修正pytube 9.5.1版的錯誤
+
+請用此資料夾裡的所有.py檔，覆蓋pytube路徑底下的同名檔案。
+
+pytube的預設安裝路徑：
+
+Windows系統：
+C:\Program Files\Python37\Lib\site-packages\pytube
+
+macOS系統：
+/Users/你的帳號/Library/Python/3.7/lib/python/site-packages
+
+或者在「命令提示字元」或「終端機」執行：
+
+python -m site
+
+或
+
+python3 -m site
+
+查看"site-packages"路徑
+
+相關說明請參閱這則回應：
+https://swf.com.tw/?p=1223&cpage=1#comment-984675
