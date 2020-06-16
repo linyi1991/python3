@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ade8f93c-3020-48ad-ac87-09216b678ad9" name="Default Changelist" comment="delete unknow software">
-      <change afterPath="$PROJECT_DIR$/練習/金字塔.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ade8f93c-3020-48ad-ac87-09216b678ad9" name="Default Changelist" comment="add python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/練習/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/練習/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/練習/金字塔.py" beforeDir="false" afterPath="$PROJECT_DIR$/練習/金字塔.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +186,7 @@
       <workItem from="1592194423691" duration="4970000" />
       <workItem from="1592210882986" duration="107000" />
       <workItem from="1592281065816" duration="270000" />
-      <workItem from="1592281365076" duration="1102000" />
+      <workItem from="1592281365076" duration="2146000" />
     </task>
     <task id="LOCAL-00001" summary="delete unknow software">
       <created>1592281249377</created>
@@ -198,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592281249377</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add python">
+      <created>1592282516987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592282516988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +222,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete unknow software" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete unknow software" />
+    <MESSAGE value="add python" />
+    <option name="LAST_COMMIT_MESSAGE" value="add python" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1256" y="109" key="#1" timestamp="1590559701988">
@@ -316,15 +321,15 @@
     <state x="348" y="147" key="SettingsEditor/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592281574789" />
     <state x="-1249" y="154" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590726009646" />
     <state x="671" y="150" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1592194337547" />
-    <state x="830" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592281389780">
+    <state x="830" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592282589781">
       <screen x="0" y="23" width="1680" height="979" />
     </state>
-    <state x="830" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592281389780" />
+    <state x="830" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592282589781" />
     <state x="948" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1592204609317" />
-    <state x="924" y="101" width="598" height="822" key="find.popup" timestamp="1592282211157">
+    <state x="924" y="101" width="598" height="822" key="find.popup" timestamp="1592282628544">
       <screen x="0" y="23" width="1680" height="979" />
     </state>
-    <state x="924" y="101" width="598" height="822" key="find.popup/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592282211157" />
+    <state x="924" y="101" width="598" height="822" key="find.popup/-1920.-257.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1592282628544" />
     <state x="1070" y="232" key="search.everywhere.popup" timestamp="1590735799182">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
