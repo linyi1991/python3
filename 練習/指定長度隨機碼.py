@@ -10,3 +10,6 @@ def generate_code(code_len=4):
 
 for _ in range(10):
     print(generate_code())
+
+
+
